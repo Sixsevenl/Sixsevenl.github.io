@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Sixsevenl.github.io/</id>
+    <title>六七</title>
+    <updated>2022-06-16T03:22:24.479Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Sixsevenl.github.io/"/>
+    <link rel="self" href="https://Sixsevenl.github.io/atom.xml"/>
+    <subtitle>天堂没有代码</subtitle>
+    <logo>https://Sixsevenl.github.io/images/avatar.png</logo>
+    <icon>https://Sixsevenl.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 六七</rights>
+    <entry>
+        <title type="html"><![CDATA[六七]]></title>
+        <id>https://Sixsevenl.github.io/post/hello-gridea/</id>
+        <link href="https://Sixsevenl.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>测试测试</p>
+]]></content>
+    </entry>
+</feed>
