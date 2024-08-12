@@ -3176,7 +3176,7 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://gcore.jsdelivr.net/gh/Sixsevenl/image/img/default-bg.png);
     --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
+    --mobileday-bg: url(https://gcore.jsdelivr.net/gh/Sixsevenl/image/img/default-bg.png);
     --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
   }`;
 }
